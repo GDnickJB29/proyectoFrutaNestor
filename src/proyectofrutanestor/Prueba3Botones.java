@@ -81,7 +81,7 @@ public class Prueba3Botones extends javax.swing.JFrame {
     }//GEN-LAST:event_jButton2ActionPerformed
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
-        System.out.println("Hola, soy Hylark");
+        System.out.println("Hola, soy Dnick");
     }//GEN-LAST:event_jButton1ActionPerformed
 
     /**
