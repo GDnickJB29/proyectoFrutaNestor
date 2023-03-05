@@ -15,7 +15,7 @@ public class ProyectoFrutaNestor {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Hola soy Dnick");
+        System.out.println("Hola soy Dnick");//xd
     }
     
 }
